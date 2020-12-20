@@ -5,12 +5,12 @@
 2. 1  
 3. 3  
 4. 2  
-<span style="red">5. 5</span>  
+<span style="color:red">5. 5</span>  
 6. 3  
 7. 2  
 8. 1  
 9. 4  
-10. 3  
+<span style="color:red">10. 3</span>  
 11. 2  
 12. 5  
 13. 3  
@@ -19,4 +19,4 @@
 21. 4  
 22. 3  
 23. 1  
-서1. 233
+<span style="color:red">서1. 233</span>
